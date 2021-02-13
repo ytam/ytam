@@ -1,17 +1,21 @@
-### Hi there 👋
+### Hi there👋 I'm Yıldırım TAM👨‍💻 
 
-<!--
-**ytam/ytam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-## I'm Yıldırım TAM, mobile application developer 🚀 from Turkey.
+#### I'm a mobile application developer in Ankara, Turkey.
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yıldırım-tam-2513979a/)
+[![Linkedin](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iamytam/)
 
+
+![Yıldırım TAM's github stats](https://github-readme-stats.vercel.app/api?username=ytam&show_icons=true&theme=dark)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ytam)
-![Mertcan's github stats](https://github-readme-stats.vercel.app/api?username=ytam&show_icons=true&theme=dark)
+
+
+
+
+<!--
+**ytam/ytam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
