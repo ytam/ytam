@@ -6,8 +6,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yıldırım-tam-2513979a/)
 [![Linkedin](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iamytam/)
 
+## 📌 GitHub Stats
 
 ![Yıldırım TAM's github stats](https://github-readme-stats.vercel.app/api?username=ytam&show_icons=true&theme=dark)
+
+## 📌 Top Languages
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytam&layout=compact&theme=dark" />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ytam)
 
