@@ -2,10 +2,6 @@
 
 #### I'm a mobile application developer in Ankara, Turkey.
 
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yıldırım-tam-2513979a/)
-[![Linkedin](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iamytam/)
-
 ## 📌 GitHub Stats
 
 ![Yıldırım TAM's github stats](https://github-readme-stats.vercel.app/api?username=ytam&show_icons=true&theme=dark)
@@ -17,6 +13,10 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=ytam)
 
 
+## 📫 How to reach me
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yıldırım-tam-2513979a/)
+[![Linkedin](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iamytam/)
 
 
 <!--
