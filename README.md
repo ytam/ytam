@@ -10,7 +10,6 @@
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytam&layout=compact&theme=dark" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ytam)
 
 
 ## 📫 How to reach me
