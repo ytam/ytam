@@ -2,16 +2,6 @@
 
 #### I'm a mobile application developer in Ankara, Turkey.
 
-## 📌 GitHub Stats
-
-![Yıldırım TAM's github stats](https://github-readme-stats.vercel.app/api?username=ytam&show_icons=true&theme=dark)
-
-## 📌 Top Languages
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytam&layout=compact&theme=dark" />
-
-
-
 ## 📫 How to reach me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yıldırım-tam-2513979a/)
