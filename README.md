@@ -7,6 +7,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yıldırım-tam-2513979a/)
 [![Linkedin](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iamytam/)
 
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ytam&show_icons=true&theme=dark"/>
+</details>
 
 <!--
 **ytam/ytam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
