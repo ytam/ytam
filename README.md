@@ -1,6 +1,8 @@
+<img src="/jim.gif" align="right"  width="36%"/>
 ### Hi there👋 I'm Yıldırım TAM👨‍💻 
 
 #### I'm a mobile application developer in Ankara, Turkey.
+
 
 
 <details>
